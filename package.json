@@ -1,0 +1,19 @@
+{
+  "name": "github-test",
+  "version": "1.0.0",
+  "description": "Practicing the source control through GitHub repository for Mac and Windows.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fr0stynick/GitHub-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fr0stynick/GitHub-Test/issues"
+  },
+  "homepage": "https://github.com/fr0stynick/GitHub-Test#readme"
+}
